@@ -1,0 +1,30 @@
+body {
+    background-color: #fdcccc;
+    font-family: 'Ubuntu', sans-serif;
+   	color: #d14e4e;
+}
+
+.row a{
+	text-decoration: none;
+	color: #d14e4e;
+}
+.clearfixs button{
+	color: #d14e4e;
+	font-size: 24px;
+	font-family: 'Ubuntu';
+	text-decoration: none;
+}
+
+.card{
+	height: 150px;
+	border-radius: 10px;
+}
+
+#title{
+	font-size: 44px;
+	font-weight: 400;
+}
+
+#sub-title{
+	font-size: 22px;
+}
